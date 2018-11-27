@@ -265,7 +265,11 @@ section a {
 }
 
 #summer {
-  float 
+  float
+}
+
+#twocol {
+  column-count: 2;
 }
 
 
