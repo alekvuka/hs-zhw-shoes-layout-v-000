@@ -265,8 +265,14 @@ section a {
 }
 
 #summer {
-  float left;
+  float: left;
 }
+
+#arcihive {
+
+}
+
+
 
 /********** Details **********/
 
